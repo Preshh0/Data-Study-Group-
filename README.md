@@ -15,13 +15,13 @@ Researchers brainstorm and engineer data science solutions, presenting their wor
 Dates
 ==========
 
-We usually hold the event 3 times a year; April/May, Spetemebr, December
+We usually hold the event 3 times a year; April/May, September, December
 
 
 Key Terms 
 =========
 
-CO = Challenge Owner, the organisation/academic that is proposing the challenege 
+CO = Challenge Owner, the organisation/academic that is proposing the challenge 
 
 PI = Principal Investigator, the academic matched with the project to guide the scientific elements of the challenge 
 
